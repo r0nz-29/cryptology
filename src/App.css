@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #4fd1c5;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
